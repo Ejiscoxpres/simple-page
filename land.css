@@ -1,5 +1,5 @@
 #everything {
-    background-color: AliceBlue ;
+    background-color: rgb(224, 212, 212) ;
     padding-top: 70px;
   }
   
@@ -26,8 +26,8 @@
     text-align: center;
     padding-top: 10px;
     padding-bottom: 10px;
-    background-color: darkgrey;
-    border-radius: 5px;
+    background-color: rgb(169, 169, 169);
+    border-radius: 15px;
   }
   
   .flex-container {
